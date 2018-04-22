@@ -24,7 +24,7 @@ namespace UnityStandardAssets._2D
                 // Read the jump input in Update so button presses aren't missed.
                 m_Jump = CrossPlatformInputManager.GetButtonDown("Jump");
 
-                m_Jump = Input.GetKeyDown(KeyCode.Joystick1Button16);
+              //  m_Jump = Input.GetKeyDown(KeyCode.Joystick1Button16);
 
             }
         }
