@@ -112,13 +112,15 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\DO NOT DELETE\Platformer2DUserControl.cs" />
+    <Compile Include="Assets\Scripts\DO NOT DELETE\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\DO NOT DELETE\Shoot.cs" />
+    <Compile Include="Assets\Scripts\DO NOT DELETE\Tiling.cs" />
     <Compile Include="Assets\Scripts\DestroyDropShip.cs" />
     <Compile Include="Assets\Scripts\DestroyLaser.cs" />
     <Compile Include="Assets\Scripts\Extensions.cs" />
     <Compile Include="Assets\Scripts\JoyRotate.cs" />
     <Compile Include="Assets\Scripts\Parallaxing.cs" />
-    <Compile Include="Assets\Scripts\Platformer2DUserControl.cs" />
-    <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\RBMove\RBAddForce.cs" />
     <Compile Include="Assets\Scripts\RBMove\RBBackground.cs" />
     <Compile Include="Assets\Scripts\RBMove\RBDropShip.cs" />
@@ -127,8 +129,6 @@
     <Compile Include="Assets\Scripts\RBMove\RBReverse.cs" />
     <Compile Include="Assets\Scripts\RBMove\RBReverse2.cs" />
     <Compile Include="Assets\Scripts\RBMove\RBReverseFast.cs" />
-    <Compile Include="Assets\Scripts\Shoot.cs" />
-    <Compile Include="Assets\Scripts\Tiling.cs" />
     <Compile Include="Assets\Scripts\Weapon.cs" />
   </ItemGroup>
   <ItemGroup>
