@@ -1,15 +1,12 @@
 ﻿<Properties StartupConfiguration="{A997F70A-6393-250A-2D0D-A7172346E176}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Shoot.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs">
     <Files>
       <File FileName="Assets/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs" Line="116" Column="32" />
       <File FileName="Assets/Standard Assets/2D/Scripts/Camera2DFollow.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Tiling.cs" Line="1" Column="1" />
       <File FileName="Assets/Standard Assets/2D/Scripts/Restarter.cs" Line="1" Column="1" />
       <File FileName="Assets/Standard Assets/2D/Scripts/CameraFollow.cs" Line="1" Column="1" />
       <File FileName="Assets/Standard Assets/2D/Scripts/ArmRotation.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Weapon.cs" Line="30" Column="26" />
-      <File FileName="Assets/Scripts/Platformer2DUserControl.cs" Line="4" Column="1" />
-      <File FileName="Assets/Scripts/Shoot.cs" Line="43" Column="12" />
       <File FileName="Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs" Line="23" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
