@@ -1,2 +1,0 @@
-/Users/Shared/Unity/2D Platformer/Temp/UnityVS_obj/Debug/2D Platformer.csprojResolveAssemblyReference.cache
-/Users/Shared/Unity/2D Platformer/Temp/UnityVS_obj/Debug/2D Platformer.csproj.CoreCompileInputs.cache
